@@ -1,0 +1,11 @@
+dist/* linguist-vendored
+
+*.gif binary
+*.jpg binary
+
+*.min.css linguist-generated
+app/**/*.tsx linguist-detectable
+app/*.tsx linguist-detectable
+
+*.min.js linguist-generated
+public/** linguist-vendored
