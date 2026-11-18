@@ -1,0 +1,6 @@
+build/
+dist/
+yarn-error.log*
+.next/
+*.log
+.DS_Store
